@@ -12,7 +12,7 @@
  
  🔭 I’m currently traded my algorithms for **Data Mysteries**
  
- 🌱 I’m currently learning **Power BI, SQL, and Python and DSA**
+ 🌱 I’m currently learning **Power BI, SQL, Python and DSA**
 
 ⚡ Fun fact **On a mission to be the Sherlock Holmes🕵️‍♂️ of Data Analytics—solving mysteries in datasets instead of crime scenes! Because let's be honest, who needs a magnifying glass when you have Power BI and SQL queries? 🔍💻**
 
