@@ -9,28 +9,30 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently traded my algorithms for **Data Mysteries**
- 
- 🌱 I’m currently learning **Power BI, SQL, Python and DSA**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-⚡ Fun fact **On a mission to be the Sherlock Holmes🕵️‍♂️ of Data Analytics—solving mysteries in datasets instead of crime scenes! Because let's be honest, who needs a magnifying glass when you have Power BI and SQL queries? 🔍💻**
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:sarkarprince480@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/prince-sarkar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
+<p align="left"> <a href="https://twitter.com/PrinceS63846615" target="blank"><img src="https://img.shields.io/twitter/follow/princesarkar?logo=twitter&style=for-the-badge" alt="princesarkar"  </p>
+
+- 🔭 I’m currently traded my algorithms for **Data Mysteries**
+
+- 🌱 I’m currently learning **Power BI, SQL, Python and DSA**
+
+- 💬 Ask me about **Power Bi , SQL and Python**
+
+- 📫 How to reach me **princesarkar480@gmail.com**
+
+- ⚡ Fun fact **On a mission to be the Sherlock Holmes🕵️‍♂️ of Data Analytics—solving mysteries in datasets instead of crime scenes! Because let's be honest, who needs a magnifying glass when you have Power BI and SQL queries? 🔍💻**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/PrinceS63846615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prince-sarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/princesarkar480/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100025692079807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+</p>
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
