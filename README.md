@@ -11,16 +11,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1ypY5ZWtRqbiXwVyWqMs1fUjxz-iSK7oe/view">
-    <img src="https://cdn-icons-png.flaticon.com/512/0/375.png" alt="Play Button" style="width:50px;height:50px;">
-  </a>
-</p>
-
-<audio controls style="display: none;">
-    <source src="https://drive.google.com/file/d/1ypY5ZWtRqbiXwVyWqMs1fUjxz-iSK7oe/view" type="audio/mpeg">
-    Your browser does not support the audio element.
-</audio>
 
 <p align="left"> <a href="https://twitter.com/PrinceS63846615" target="blank"><img src="https://img.shields.io/twitter/follow/princesarkar?logo=twitter&style=for-the-badge" alt="princesarkar"  </p>
 
@@ -33,6 +23,17 @@
 - 📫 How to reach me **princesarkar480@gmail.com**
 
 - ⚡ Fun fact **On a mission to be the Sherlock Holmes🕵️‍♂️ of Data Analytics—solving mysteries in datasets instead of crime scenes! Because let's be honest, who needs a magnifying glass when you have Power BI and SQL queries? 🔍💻**
+- My Motivation 🔥
+ <p align="center">
+  <a href="https://drive.google.com/file/d/1ypY5ZWtRqbiXwVyWqMs1fUjxz-iSK7oe/view">
+    <img src="https://cdn-icons-png.flaticon.com/512/0/375.png" alt="Play Button" style="width:50px;height:50px;">
+  </a>
+</p>
+
+<audio controls style="display: none;">
+    <source src="https://drive.google.com/file/d/1ypY5ZWtRqbiXwVyWqMs1fUjxz-iSK7oe/view" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/PrinceS63846615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
