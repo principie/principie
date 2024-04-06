@@ -24,6 +24,8 @@
 
 - ⚡ Fun fact **On a mission to be the Sherlock Holmes🕵️‍♂️ of Data Analytics—solving mysteries in datasets instead of crime scenes! Because let's be honest, who needs a magnifying glass when you have Power BI and SQL queries? 🔍💻**
 - My Motivation 🔥
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/spongebob-big-motivation-1l0ozqtughza9xhl.webp">
+
  <p align="center">
   <a href="https://drive.google.com/file/d/1ypY5ZWtRqbiXwVyWqMs1fUjxz-iSK7oe/view">
     <img src="https://cdn-icons-png.flaticon.com/512/0/375.png" alt="Play Button" style="width:50px;height:50px;">
