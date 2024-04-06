@@ -24,7 +24,10 @@
 - 📫 How to reach me **princesarkar480@gmail.com**
 
 - ⚡ Fun fact **On a mission to be the Sherlock Holmes🕵️‍♂️ of Data Analytics—solving mysteries in datasets instead of crime scenes! Because let's be honest, who needs a magnifying glass when you have Power BI and SQL queries? 🔍💻**
-
+          <audio controls>
+            <source src="3i.mp3" type="audio/mpeg">
+          Play.
+          </audio>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/PrinceS63846615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
