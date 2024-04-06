@@ -32,7 +32,6 @@
 
 <audio controls style="display: none;">
     <source src="https://drive.google.com/file/d/1ypY5ZWtRqbiXwVyWqMs1fUjxz-iSK7oe/view" type="audio/mpeg">
-    Your browser does not support the audio element.
 </audio>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
