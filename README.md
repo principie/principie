@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1ypY5ZWtRqbiXwVyWqMs1fUjxz-iSK7oe/view">
-    <img src="https://png.pngtree.com/png-vector/20190411/ourmid/pngtree-vector-play-icon-png-image_924817.jpg" alt="Play Button" style="width:50px;height:50px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/0/375.png" alt="Play Button" style="width:50px;height:50px;">
   </a>
 </p>
 
