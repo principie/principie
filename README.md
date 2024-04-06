@@ -11,7 +11,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<audio controls>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1ypY5ZWtRqbiXwVyWqMs1fUjxz-iSK7oe/view">
+    <img src="https://png.pngtree.com/png-vector/20190411/ourmid/pngtree-vector-play-icon-png-image_924817.jpg" alt="Play Button" style="width:50px;height:50px;">
+  </a>
+</p>
+
+<audio controls style="display: none;">
     <source src="https://drive.google.com/file/d/1ypY5ZWtRqbiXwVyWqMs1fUjxz-iSK7oe/view" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
