@@ -27,7 +27,7 @@
 
  <p align="center">
   <a href="https://drive.google.com/file/d/1ypY5ZWtRqbiXwVyWqMs1fUjxz-iSK7oe/view">
-    <img src="https://cdn.dribbble.com/users/1815631/screenshots/6978840/vidferno_flame.gif" alt="Play Button" style="width:50px;height:50px;">
+    <img src="https://i.pinimg.com/originals/5d/41/89/5d4189be97db843fe449ce5ec25e6aa9.gif" alt="Play Button" style="width:50px;height:50px;">
   </a>
 </p>
 
