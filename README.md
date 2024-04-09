@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Power Bi , SQL and Python**
 
-- 📫 How to reach me **princesarkar480@gmail.com**
+- 📫 How to reach me **sarkarprince480@gmail.com**
 
 - ⚡ Fun fact **On a mission to be the Sherlock Holmes🕵️‍♂️ of Data Analytics—solving mysteries in datasets instead of crime scenes! Because let's be honest, who needs a magnifying glass when you have Power BI and SQL queries? 🔍💻**
 - My Motivation 🔥
