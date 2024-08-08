@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently traded my algorithms for **Data Mysteries**
 
-- 🌱 I’m currently learning **Power BI, SQL, Python and DSA**
+- 🌱 Currently learning **Power BI, SQL, Python and DSA**
 
 - 💬 Ask me about **Power Bi , SQL and Python**
 
